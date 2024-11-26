@@ -1,3 +1,5 @@
 <?php
-$saludo = "hola";
+include 'functions.php';
+
+echo saludar();
 ?>
