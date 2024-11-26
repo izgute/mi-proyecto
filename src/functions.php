@@ -1,5 +1,5 @@
 <?php
-function saludar(){
-    return "Hola a todos";
+function saludar2($name){
+    return 'Hola a $name';
 }
 ?>
